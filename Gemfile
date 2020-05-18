@@ -5,9 +5,9 @@ gem 'oktokit', '~> 2.0'
 gem 'awesome-print' #github repo
 
 
-group :development do
-  gem "pry"
-end
+
+gem "pry", :group => :development
+
 
 group :test do
   gem "rspec"
