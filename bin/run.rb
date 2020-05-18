@@ -4,5 +4,3 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
-
-
